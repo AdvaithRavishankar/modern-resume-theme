@@ -133,14 +133,15 @@ content:
     layout: list
     content:
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Swartz Center for Computational Neuroscience (SCCN),
+        sub_title: Lab Volunteer
+        caption: Oct 2021 - Present
+        link: https://sccn.ucsd.edu/
         quote: >
-          Short description of the company (optional)
+          A UCSD Affiliated Lab which focuses on Electroencephalography (EEG) Analysis
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Project focused on developing a neural network to process Electroencephalography (EEG) data on adolescent brains for transferred learning
+                Executing and debugging deep learning scripts on the Expanse Supercomputer
     
   - title: Education
     layout: list
