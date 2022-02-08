@@ -149,16 +149,16 @@ content:
         title: University of California San Diego
         sub_title: BS Mathematics and Computer Science
         caption: 2021 - Present
-        quote: >
-          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Pursuing a degree in Mathematics and Computer Science with an elective specialization in machine learning. Intend to complete in June 2025.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      Interests:  	Health Technologies, Deep Learning, Predictive Algorithms, Computational Neuroscience, Web Development
+      Programming Skills:	Java, Python, R, SQL, JavaScript, and MATLAB
+      Lingustic Languages:  	Fluent in English & Hindi. Conversant in French
+      
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
