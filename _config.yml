@@ -55,13 +55,13 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Reinforcement Learning Based Poker Robot
         link: https://github.com/packetsss/Poker-RL
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #additional_links:
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+         #   icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Creating an AI Poker robot based on a reinforcement learning model (Dec 2021 - Present)
         description: | # this will include new lines to allow paragraphs
