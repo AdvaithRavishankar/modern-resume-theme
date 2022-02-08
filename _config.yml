@@ -66,7 +66,7 @@ content:
           Creating an AI Poker robot based on a reinforcement learning model (Dec 2021 - Present)
         description: | # this will include new lines to allow paragraphs
           Designing custom reward functions and reinforcement learning models to play poker efficiently with the University of California San Diego Data Science Student Soceity
-  - title: Experience
+  - title: Internship Experiences
     layout: list
     content:
       - layout: right
@@ -82,9 +82,9 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: University of California San Diego
+        sub_title: BS Mathematics and Computer Science
+        caption: 2021 - Present
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
