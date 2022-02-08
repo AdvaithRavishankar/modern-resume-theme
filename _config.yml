@@ -47,15 +47,14 @@ about_content: | # this will include new lines to allow paragraphs
   I currently plan to pursue a masters or even a Phd in this field and I would love to conduct research or work at companies at any time.
 
 content:
-  - title: Projects # Title for the section
+  - title: Organization Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Reinforcement Learning Based Poker Robot
+        link: https://github.com/packetsss/Poker-RL
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -64,9 +63,9 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Creating an AI Poker robot based on a reinforcement learning model (Dec 2021 - Present)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          •	Designing custom reward functions and reinforcement learning models to play poker efficiently with the University of California San Diego Data Science Student Soceity
   - title: Experience
     layout: list
     content:
