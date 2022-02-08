@@ -81,13 +81,13 @@ content:
                 Developed a smart search algorithm using biased clustering and an LSTM neural network
           	    Prototyped a backend website using Django to present interactive network graph and algorithm visualizations from bokeh
 
-      - layout: left
+      - layout: right
         title: Scripbox
-        sub_title: No.1 Robo-Advisory Platform Firm in India 
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        sub_title: Financial Research Intern
+        caption: Jun 2021 - Aug 2021
+        link: https://scripbox.com/
         quote: >
-          Short description of the company (optional)
+          No.1 Robo-Advisory Platform Firm in India
         description: | # this will include new lines to allow paragraphs
           Description of role
       - layout: left
