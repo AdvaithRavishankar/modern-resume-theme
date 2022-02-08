@@ -70,8 +70,20 @@ content:
     layout: list
     content:
       - layout: left
-        title: Company name
-        sub_title: Job title
+        title: Probe Information
+        sub_title: Financial Research Intern
+        caption: Jul 2021 - Aug 2021
+        link: https://probeinformation.com/
+        quote: >
+          India's Leading Corporate Data Firm 
+        description: | # this will include new lines to allow paragraphs
+          Project objective was cluster 1.6 million companies to help banks identify companies for lending  
+                Developed a smart search algorithm using biased clustering and an LSTM neural network
+          	    Prototyped a backend website using Django to present interactive network graph and algorithm visualizations from bokeh
+
+      - layout: left
+        title: Scripbox
+        sub_title: No.1 Robo-Advisory Platform Firm in India 
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
         quote: >
@@ -87,15 +99,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-      - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+      
       - layout: left
         title: Company name
         sub_title: Job title
