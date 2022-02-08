@@ -39,13 +39,11 @@ linkedin_username: advaith-ravishankar-232b601b8
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I am a first-year Mathematics and Computer Science major studying at UCSD. I love health and predictive models which is why I want to pursue a career in Data Science.
+  
+  Previously, I have worked in the areas of Deep Learning and Regression models, having a firm grasp over several programming langauages: Python, Java, R and SQL. I am familiar with serveral tools for this process like TensorFlow and pytorch for Machine Learning and bokeh for interactive plotting.
+  
+  I currently plan to pursue a masters or even a Phd in this field and I would love to conduct research or work at companies at any time.
 
 content:
   - title: Projects # Title for the section
