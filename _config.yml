@@ -54,6 +54,8 @@ content:
         #border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Reinforcement Learning Based Poker Robot
+        sub_title: Deep Learning Developer
+        caption: Jan 2021 - Present
         link: https://github.com/packetsss/Poker-RL
         #additional_links:
         #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
