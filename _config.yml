@@ -39,6 +39,8 @@ linkedin_username: advaith-ravishankar-232b601b8
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
+  I like math, I like algorithm, I can handle programing, and would like to solve real world problems. A little bit of background information.
+  
   I am a first-year Mathematics and Computer Science major studying at UCSD. I love healthcare and predictive models which is why I want to pursue a career in Data Science.
   
   Previously, I have worked in the areas of Deep Learning and Regression models, having a firm grasp over several programming langauages: Python, Java, R and SQL. I am familiar with serveral tools for this process like TensorFlow and pytorch for Machine Learning and bokeh for interactive plotting.
