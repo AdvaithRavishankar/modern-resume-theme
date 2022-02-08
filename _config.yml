@@ -14,17 +14,17 @@ phone: +1 858-8604276
 # phone_title: Phone (Phone title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 github_username:  AdvaithRavishankar
 linkedin_username: advaith-ravishankar-232b601b8
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
