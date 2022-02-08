@@ -72,12 +72,11 @@ content:
       - layout: left
         title: Specializations Offered by DeepLearning.AI
         link: https://www.deeplearning.ai/
+        quote: >
         description: |
                 Deep Learning Specialization (By Andrew Ng, DeepLearning.AI) on Coursera (May 2021)
                 DeepLearning.AI TensorFlow Developer Specialization (By Laurence Moroney) on Coursera (Apr 2021)	
 
-  
-  
   - title: Internship Experiences
     layout: list
     content:
