@@ -94,24 +94,28 @@ content:
                 Automatically ranked potential investments for return-on-investment optimization
 
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Myelin Foundry
+        sub_title: Deep Learning Intern
+        caption: Jun 2020
+        link: https://www.myelinfoundry.com/
         quote: >
-          Short description of the company (optional)
+          Artificial Intelligence Led Startup 
         description: | # this will include new lines to allow paragraphs
-          Description of role
-      
+          Tasked to create a prediction algorithm to find the probability of a YouTube music video going viral
+                Web scraped viral and non-viral music videos from YouTube
+                Created a hybrid neural network to generate the probability of virality
+
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Cerner
+        sub_title: Data Science Intern
+        caption: Jul 2018
+        link: https://www.cerner.com/
         quote: >
-          Short description of the company (optional)
+          Leading Health and Information Technology Firm 
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Project aimed to correlate the incidence of malaria to local infrastructure and environmental conditions. Goal was to aid the government to reduce the spread of the disease in the country
+                Designed logistical and linear regression algorithms to find regional hotspots of disease spread
+
           
   - title: Research Lab Experience
     layout: list
