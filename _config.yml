@@ -121,7 +121,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: center
         title: University of California San Diego
         sub_title: BS Mathematics and Computer Science
         caption: 2021 - Present
