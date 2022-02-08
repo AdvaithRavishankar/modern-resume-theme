@@ -81,7 +81,7 @@ content:
                 Developed a smart search algorithm using biased clustering and an LSTM neural network
           	    Prototyped a backend website using Django to present interactive network graph and algorithm visualizations from bokeh
 
-      - layout: right
+      - layout: left
         title: Scripbox
         sub_title: Financial Research Intern
         caption: Jun 2021 - Aug 2021
@@ -89,7 +89,10 @@ content:
         quote: >
           No.1 Robo-Advisory Platform Firm in India
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Goal to optimize investment portfolios by statistically analyzing indices and stocks
+                Produced an application which would cluster all indices and stocks on a real-time basis on statistical measures
+                Automatically ranked potential investments for return-on-investment optimization
+
       - layout: left
         title: Company name
         sub_title: Job title
