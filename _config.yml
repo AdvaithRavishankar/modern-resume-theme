@@ -39,13 +39,14 @@ linkedin_username: advaith-ravishankar-232b601b8
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I like math, I like algorithms, I can handle programing, and would like to solve real-world problems. A little bit of background information.
-
-  I am a first-year Mathematics and Computer Science major studying at UCSD. I love healthcare and predictive models which is why I want to pursue a career in Data Science.
-
-  Previously, I have worked in the areas of Deep Learning and Regression models, having a firm grasp of several programming languages: Python, Java, R and SQL. I am familiar with several tools for this process like TensorFlow and PyTorch for Machine Learning and bokeh for interactive plotting.
+  I am currently majoring in math and computer science at the University of California San Diego with a primary interest in Data Science.
   
-  I currently plan to pursue a masters or even a Phd in this field and I would love to conduct research or work at companies at any time.
+  I enjoy conducting research experiments and have developed algorithms using Deep Learning and Regression. 
+  
+  Previously, I have worked in these areas by creating Robo-Advisory models and Convolutional Neural Networks, giving me a firm grasp of several programming languages: Python, Java, R and SQL. I am familiar with several tools for this process like TensorFlow and PyTorch for Machine Learning and bokeh for interactive plotting.
+  
+  Currently open to any opportunity that helps me learn and grow in this field.
+  
 
 content:
   - title: Organization Projects # Title for the section
