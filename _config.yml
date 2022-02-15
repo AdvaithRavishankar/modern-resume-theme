@@ -43,9 +43,9 @@ about_content: | # this will include new lines to allow paragraphs
   
   I enjoy conducting research experiments and have developed algorithms using Deep Learning and Regression. 
   
-  My previous experiences include creating Robo-Advisory models, Convolutional and LSTM Neural Networks, Natural Language Processing, Clustering and Regression Algorithms applied to healthcare and finance.  
-
+  My previous experiences include creating Robo-Advisory models, Convolutional and LSTM Neural Networks, Natural Language Processing, Clustering and Regression Algorithms applied to healthcare and finance.
   
+  Currently open to any opportunity that helps me learn and grow in this field primarily in Reinforcement Learning, Natural Language Processing, Computer Vision, or Regression Algorithms.
 
 content:
   - title: Focus & Expertise # Title for the section
@@ -69,8 +69,6 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           I have a firm grasp over programming languages- Java, Python, R, SQL, JavaScript, and MATLAB- with the ability to use tools like TensorFlow, Pytorch, OpenCV, Bokeh, & Django.
-
-          Currently open to any opportunity that helps me learn and grow in this field primarily in Reinforcement Learning, Natural Language Processing, Computer Vision, or Regression Algorithms.
           
           My expertise lies in the mathematical segment of these algorithm where I have specialization certifaction in and is also my current area of specialization at UCSD.
           
