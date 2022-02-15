@@ -172,11 +172,13 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Interests:  	Health Technologies, Deep Learning, Predictive Algorithms, Computational Neuroscience, Web Development
+      IInterests: Reinforcement Learning, Natural Language Processing, Computer Vision, Regression Algorithms, Time Series
       
-      Programming Skills:	Java, Python, R, SQL, JavaScript, and MATLAB
+      Languages: Fluent in English & Hindi. Conversant in French
       
-      Lingustic Languages:  	Fluent in English & Hindi. Conversant in French
+      Skills: Java, Python, R, SQL, JavaScript, and MATLAB
+      
+      Tools: TensorFlow, Pytorch, OpenCV, Bokeh, Django
       
 
 
