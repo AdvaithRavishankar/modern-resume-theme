@@ -45,8 +45,6 @@ about_content: | # this will include new lines to allow paragraphs
   
   Previously, I have worked in these areas by creating Robo-Advisory models and Convolutional Neural Networks, giving me a firm grasp of several programming languages: Python, Java, R and SQL. I am familiar with several tools for this process like TensorFlow and PyTorch for Machine Learning and bokeh for interactive plotting.
   
-  Currently open to any opportunity that helps me learn and grow in this field.
-  
 
 content:
   - title: Organization Projects # Title for the section
@@ -71,6 +69,30 @@ content:
         description: | # this will include new lines to allow paragraphs
           Designing custom reward functions and reinforcement learning models to play poker efficiently with the University of California San Diego Data Science Student Soceity	
 
+content:
+  - title: Expertise # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Deep Learning and Algorithms
+        sub_title: Developer
+        caption:
+        link: 
+        #additional_links:
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+         #   icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          I have a firm grasp over programming languages- Java, Python, R, SQL, JavaScript, and MATLAB- with the ability to using tools like TensorFlow, Pytorch, OpenCV, Bokeh, Django.
+
+          Currently open to any opportunity that helps me learn and grow in this field primarily in Reinforcement Learning, Natural Language Processing, Computer Vision, Predictive Algorithms.
   - title: Internship Experiences
     layout: list
     content:
