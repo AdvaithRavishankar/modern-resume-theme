@@ -15,7 +15,7 @@ phone: +1 858-8604276
 # phone_title: Phone (Phone title override)
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 github_username:  AdvaithRavishankar
