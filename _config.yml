@@ -1,5 +1,5 @@
 # Site
-repository: AdvaithRavishankar/resume_main
+repository: AdvaithRavishankar/website
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -7,7 +7,8 @@ version: 2
 
 # Personal info
 name: Advaith Ravishankar
-title: Aspiring Data Scientist
+title: Computer Vision Researcher @ Salk Institute
+Math+CS and Cognitive Science (Spec. Machine Learning and Neural Computation) @ UC San Diego
 email: advaith.ravishankar2002@gmail.com
 # email_title: Email (Email title override)
 phone: +1 858-8604276
