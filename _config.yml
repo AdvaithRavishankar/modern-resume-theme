@@ -7,13 +7,10 @@ version: 2
 
 # Personal info
 name: Advaith Ravishankar
-title: |
-  Computer Vision Researcher @ Salk Institute
-  
-  Math+CS and Cognitive Science (Spec. Machine Learning and Neural Computation) @ UC San Diego
+title: Computer Vision Researcher @ Salk Institute
 email: advaith.ravishankar2002@gmail.com
 # email_title: Email (Email title override)
-phone: +1 858-8604276
+phone: (858) 860 4276
 # phone_title: Phone (Phone title override)
 
 # Dark Mode (true/false/never)
