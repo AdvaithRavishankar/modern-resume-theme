@@ -49,10 +49,9 @@ content:
     content:
       - layout: center
         title: University of California San Diego
-        sub_title: BS Mathematics and Computer Science | BS Cognitive Science Spec. Machine Learning and Neural Computation
         caption: 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          Pursuing a degree in Mathematics and Computer Science with an elective specialization in machine learning. Intend to complete in June 2025.
+          BS Mathematics and Computer Science | BS Cognitive Science Spec. Machine Learning and Neural Computation
           
   - title: Experience
     layout: list
