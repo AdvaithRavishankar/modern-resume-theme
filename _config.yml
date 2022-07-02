@@ -39,13 +39,11 @@ linkedin_username: advaith-ravishankar-232b601b8
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently majoring in math and computer science at the University of California San Diego with a primary interest in Data Science.
-  
-  I enjoy conducting research experiments and have developed algorithms using Deep Learning and Regression. 
-  
-  My previous experiences include creating Robo-Advisory models, Convolutional and LSTM Neural Networks, Natural Language Processing, Clustering and Regression Algorithms applied to healthcare and finance.
-  
-  Currently open to any opportunity that helps me learn and grow in this field primarily in Reinforcement Learning, Natural Language Processing, Computer Vision, or Regression Algorithms.
+  I am a mathematics and computer science student specializing in Data Science and Artificial Intelligence. My current focus is on computer vision and its application with 2D pose estimation and categorical image identification. 
+
+  More information on my GitHub: https://github.com/AdvaithRavishankar
+
+  I am well-versed with UNets, Data Clustering and Big Data Processing. Additionally, I am a skilled programmer in Python, Java, C, C++, R and ARM.
 
 content:
   - title: Focus & Expertise # Title for the section
