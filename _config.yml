@@ -43,7 +43,17 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am well-versed with UNets, Data Clustering and Big Data Processing. Additionally, I am a skilled programmer in Python, Java, C, C++, R and ARM.
 
-content:            
+content: 
+  - title: Education
+    layout: list
+    content:
+      - layout: center
+        title: University of California San Diego
+        sub_title: BS Mathematics and Computer Science | BS Cognitive Science Spec. Machine Learning and Neural Computation
+        caption: 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+          Pursuing a degree in Mathematics and Computer Science with an elective specialization in machine learning. Intend to complete in June 2025.
+          
   - title: Experience
     layout: list
     content:
@@ -110,16 +120,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           Project aimed to correlate the incidence of malaria to local infrastructure and environmental conditions. Goal was to aid the government to reduce the spread of the disease in the country
                 Designed logistical and linear regression algorithms to find regional hotspots of disease spread
-    
-  - title: Education
+  
+  - title: Publications
     layout: list
     content:
       - layout: center
-        title: University of California San Diego
-        sub_title: BS Mathematics and Computer Science | BS Cognitive Science Spec. Machine Learning and Neural Computation
-        caption: 2021 - Present
+        title: Improving Nutrition in India
+        sub_title: Pre-Print on NutriXiv
+        caption: Oct 2020
         description: | # this will include new lines to allow paragraphs
-          Pursuing a degree in Mathematics and Computer Science with an elective specialization in machine learning. Intend to complete in June 2025.
+          A short mathematical study analyzing the dietary nutrition of children living in destitute children care facilities in order to improve their diet distribution.
+          
+          Pre-Print Link: https://osf.io/preprints/nutrixiv/e4qpu
       
 
 
