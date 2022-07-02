@@ -41,8 +41,6 @@ about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a mathematics and computer science student specializing in Data Science and Artificial Intelligence. My current focus is on computer vision and its application with 2D pose estimation and categorical image identification. 
 
-  More information on my GitHub: https://github.com/AdvaithRavishankar
-
   I am well-versed with UNets, Data Clustering and Big Data Processing. Additionally, I am a skilled programmer in Python, Java, C, C++, R and ARM.
 
 content:
