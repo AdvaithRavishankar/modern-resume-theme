@@ -51,7 +51,8 @@ content:
         title: University of California San Diego
         caption: 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          BS Mathematics and Computer Science | BS Cognitive Science Spec. Machine Learning and Neural Computation
+          BS Mathematics and Computer Science 
+          BS Cognitive Science Spec. Machine Learning and Neural Computation
           
   - title: Experience
     layout: list
