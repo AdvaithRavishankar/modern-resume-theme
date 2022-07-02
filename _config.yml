@@ -43,57 +43,27 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am well-versed with UNets, Data Clustering and Big Data Processing. Additionally, I am a skilled programmer in Python, Java, C, C++, R and ARM.
 
-content:
-  - title: Focus & Expertise # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Deep Learning and Algorithms
-        sub_title: Developer
-        caption:
-        link: 
-        #additional_links:
-        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
-         #   icon: fab fa-github
-        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #    icon: fab fa-github
-         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-          I have a firm grasp over programming languages- Java, Python, R, SQL, JavaScript, and MATLAB- with the ability to use tools like TensorFlow, Pytorch, OpenCV, Bokeh, & Django.
-          
-          My expertise lies in the mathematical segment of these algorithm where I have specialization certifaction in and is also my current area of specialization at UCSD.
-          
-  - title: Organization Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Reinforcement Learning Based Poker Robot
-        sub_title: Deep Learning Developer
-        caption: Jan 2021 - Present
-        link: https://github.com/packetsss/Poker-RL
-        #additional_links:
-        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
-         #   icon: fab fa-github
-        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #    icon: fab fa-github
-         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Creating an AI Poker robot based on a reinforcement learning model
-        description: | # this will include new lines to allow paragraphs
-          Designing custom reward functions and reinforcement learning models to play poker efficiently with the University of California San Diego Data Science Student Soceity	
-
-  
-  - title: Internship Experiences
+content:            
+  - title: Experience
     layout: list
     content:
+      - layout: left
+        title: Computer Vision Researcher @ Talmolab
+        sub_title: Salk Institute
+        caption: Apr 2022 - Present
+        link: https://talmolab.org/team/
+        description: | # this will include new lines to allow paragraphs
+          Creating a Self-Supervised Keypoint-Discovery addition to SLEAP.AI under Dr. Talmo Pereira using Heatmap styled jigsaw principle and BKinD.
+      - layout: left
+        title: Reinforcement Learning Poker Robot
+        sub_title: Deep Learning Developer
+        caption: Dec 2021 - Jun 2022
+        link: https://github.com/AdvaithRavishankar/Poker.AI
+        quote: >
+          Data Science Student Soceity
+        description: | # this will include new lines to allow paragraphs
+          Created a Reinforcement Learning Based Poker Robot in collaboration with UCSD's Data Science Student Soceity. Created a functional model using Stable.Baseline3 and created a functional GUI which can be found in the Github Repository.   
+    
       - layout: left
         title: Probe Information
         sub_title: Financial Research Intern
@@ -131,7 +101,7 @@ content:
                 Created a hybrid neural network to generate the probability of virality
 
       - layout: left
-        title: Cerner
+        title: Cerner Corporation
         sub_title: Data Science Intern
         caption: Jul 2018
         link: https://www.cerner.com/
@@ -140,41 +110,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           Project aimed to correlate the incidence of malaria to local infrastructure and environmental conditions. Goal was to aid the government to reduce the spread of the disease in the country
                 Designed logistical and linear regression algorithms to find regional hotspots of disease spread
-
-          
-  - title: Research Lab Experience
-    layout: list
-    content:
-      - layout: left
-        title: Swartz Center for Computational Neuroscience (SCCN),
-        sub_title: Lab Volunteer
-        caption: Oct 2021 - Present
-        link: https://sccn.ucsd.edu/
-        quote: >
-          A UCSD Affiliated Lab which focuses on Electroencephalography (EEG) Analysis
-        description: | # this will include new lines to allow paragraphs
-          Project focused on developing a neural network to process Electroencephalography (EEG) data on adolescent brains for transferred learning
-                Executing and debugging deep learning scripts on the Expanse Supercomputer
     
   - title: Education
     layout: list
     content:
       - layout: center
         title: University of California San Diego
-        sub_title: BS Mathematics and Computer Science
+        sub_title: BS Mathematics and Computer Science | BS Cognitive Science Spec. Machine Learning and Neural Computation
         caption: 2021 - Present
         description: | # this will include new lines to allow paragraphs
           Pursuing a degree in Mathematics and Computer Science with an elective specialization in machine learning. Intend to complete in June 2025.
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      IInterests: Reinforcement Learning, Natural Language Processing, Computer Vision, Regression Algorithms, Time Series
-      
-      Languages: Fluent in English & Hindi. Conversant in French
-      
-      Skills: Java, Python, R, SQL, JavaScript, and MATLAB
-      
-      Tools: TensorFlow, Pytorch, OpenCV, Bokeh, Django
       
 
 
