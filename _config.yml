@@ -58,10 +58,12 @@ content:
     layout: list
     content:
       - layout: left
-        title: Computer Vision Researcher @ Talmolab
+        title: Computer Vision Researcher
         sub_title: Salk Institute
         caption: Apr 2022 - Present
         link: https://talmolab.org/team/
+        quote: >
+          Talmo Lab
         description: | # this will include new lines to allow paragraphs
           Creating a Self-Supervised Keypoint-Discovery addition to SLEAP.AI under Dr. Talmo Pereira using Heatmap styled jigsaw principle and BKinD.
       - layout: left
